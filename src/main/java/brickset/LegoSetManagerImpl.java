@@ -12,7 +12,7 @@ var manager = new LegoSetManagerImpl();
      */
     @Override
     public void printSubThemesOfHarryPotterSets() {
-
+return;
     }
 
     /**
